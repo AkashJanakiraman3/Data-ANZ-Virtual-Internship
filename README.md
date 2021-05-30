@@ -1,0 +1,2 @@
+# Data-ANZ-Virtual-Internship
+Analyzed and leveraged customer transaction dataset containing 3-month worth of transactions for 100 hypothetical customers, consisting of 12,000 plus entries.  Performed exploratory data analysis to get critical insights like average transaction amount, average customer transaction and visualized transaction volume to find the main outliers that affects the predictive analysis.  Identified correlations between various features and built models using linear regression and decision tree to predict the annual salary of the customers.
